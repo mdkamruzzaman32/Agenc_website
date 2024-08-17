@@ -18,9 +18,8 @@ a {
 /* navbar css start  */
 #header {
     position: absolute;
-    top: 0;
-    left: 0;
     width: 100%;
+    margin-top:40px;
 }
 
 .menubar {
